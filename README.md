@@ -15,7 +15,7 @@ transferring the materials to another person or "mirror" the materials on any ot
 This will let Eclipse X to terminate upon violations of any of these restrictions. Upon termination, your viewing right will also be terminated and you should destroy any downloaded materials in your possession whether it is printed or electronic format.
 
 3. Disclaimer
-All the materials in products of Eclipse X are provided “as is”. Eclipse X makes no warranties, may it be expressed or implied, therefore negates all other warranties. Furthermore, Eclipse X does not make any representations concerning the accuracy or reliability of the use of the materials on its Website or otherwise relating to such materials or any sites linked to this Website.
+All the materials in products of Eclipse X are provided “as is”. Eclipse X makes no warranties, may it be expressed or implied, therefore negates all other warranties. Furthermore, Eclipse X does not make any representations concerning the accuracy or reliability of the use of the materials on its Website or Discord server or any other platform or otherwise relating to such materials or any sites linked to this Website.
 
 4. Limitations
 Eclipse X or its suppliers will not be hold accountable for any damages that will arise with the use or inability to use the Products of Eclipse X, even if Eclipse X or an authorize representative of Eclipse ax has been notified, orally or written, of the possibility of such damage. Some jurisdiction does not allow limitations on implied warranties or limitations of liability for incidental damages, these limitations may not apply to you.
